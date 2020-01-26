@@ -36,6 +36,8 @@
 ## 辟谣
 [较真查证平台-腾讯新闻](https://vp.fact.qq.com/home)
 
+[面对武汉疫情，我更愿意相信让专业的人去做专业的事-毕导](https://mp.weixin.qq.com/s?src=11&timestamp=1580045701&ver=2120&signature=KsdV6RuFTSA6n8OlESk8gRJzH33wCP36LpUx7t9xb3VgAvvIkgTMMfLyQMQZwnE9SV2vSrNqEWCU4XY68bYkaQvFJNsGwsg7AuR43u7CQi3g9mGeUGgy5onIfoh-8F1D&new=1)
+
 ## 疫情动态
 疫情地图、全国发热门诊、疫情最新进展：
 - [丁香园新型肺炎疫情实时动态](https://3g.dxy.cn/newh5/view/pneumonia)
@@ -47,17 +49,18 @@
 - [腾讯新闻疫情实时追踪](https://news.qq.com/zt2020/page/feiyan.htm)
 - [疫情信息离线版本](./special/README.md)
 
-[新型肺炎防疫全记录-财新网](http://m.app.caixin.com/m_topic_detail/1473.html)
-[新型冠状病毒-知乎话题](https://www.zhihu.com/topic/21238418/top-answers)
-
 ## 视频
 - [武汉UP实拍，封城后的24小时](https://www.bilibili.com/video/av84850049)
 - [白岩松访钟南山：新型肺炎疫情如何防控](https://v.qq.com/x/cover/mzc00200oqqk983/v00336kuxnm.html)
 
+## 相关新闻话题
+- [新型肺炎防疫全记录-财新网](http://m.app.caixin.com/m_topic_detail/1473.html)
+- [新型冠状病毒-知乎话题](https://www.zhihu.com/topic/21238418/top-answers)
+- [春节档电影集体撤档，《囧妈》在头条系平台免费播放](https://new.qq.com/omn/20200124/20200124A08VF400.html)
+
 ## 相关链接
 - [武汉新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
 - [口罩护目镜头像生成器](https://h5.codefuture.top/2020-mask)
-- [春节档电影集体撤档，《囧妈》在头条系平台免费播放](https://new.qq.com/omn/20200124/20200124A08VF400.html)
 - [非典-纪录片](https://www.bilibili.com/video/av8132069)
 - [面对面抗击非典-央视新闻](https://v.qq.com/x/page/y0197dxwv57.html)
 - [《瘟疫公司》游戏](https://www.zhihu.com/topic/19837100/top-answers)
