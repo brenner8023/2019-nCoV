@@ -1,5 +1,5 @@
 # 新型肺炎防疫
-> 坚决打赢防疫战，天佑中华渡难关。
+> 及时通报，有效防控，坚决打赢这场没有硝烟的战争。
 
 - 传染源：野生动物
 - 病毒：新型冠状病毒2019-nCoV
@@ -7,7 +7,43 @@
 - 潜伏期：1~14天均有，平均10天，潜伏期内存在传染性
 - 感染的临床表现：发热、乏力、呼吸道症状以干咳为主、逐渐出现呼吸困难
 
+<table>
+<tr>
+    <td><img src="./images/v1.jpg" alt=""></td>
+    <td><img src="./images/v2.jpg" alt=""></td>
+    <td><img src="./images/v3.jpg" alt=""></td>
+</tr>
+<tr>
+    <td><img src="./images/v4.jpg" alt=""></td>
+    <td><img src="./images/v5.jpg" alt=""></td>
+    <td><img src="./images/v6.jpg" alt=""></td>
+</tr>
+<tr>
+    <td><img src="./images/v7.jpg" alt=""></td>
+    <td><img src="./images/v8.jpg" alt=""></td>
+    <td><img src="./images/v9.jpg" alt=""></td>
+</tr>
+</table>
+
+## 疫情动态
+疫情地图、全国发热门诊、疫情最新进展：
+- [丁香园新型肺炎疫情实时动态](https://3g.dxy.cn/newh5/view/pneumonia)
+- [360新型肺炎疫情实时动态](https://arena.360.cn/docs/wuhan_pneumonia/)
+- [网易新型肺炎疫情地图](https://news.163.com/special/epidemic/)
+- [百度疫情通报](https://voice.baidu.com/act/newpneumonia/newpneumonia)
+- [新浪疫情实时动态](https://news.sina.cn/zt_d/yiqing0121)
+- [第一财经疫情地图](https://m.yicai.com/news/100476965.html)
+- [腾讯新闻疫情实时追踪](https://news.qq.com/zt2020/page/feiyan.htm)
+- [凤凰网疫情实时动态](https://news.ifeng.com/c/special/7tPlDSzDgVk)
+- [疫情信息离线版本](./special/README.md)
+
+## 辟谣
+[较真查证平台-腾讯新闻](https://vp.fact.qq.com/home)
+
+[面对武汉疫情，我更愿意相信让专业的人去做专业的事-毕导](https://mp.weixin.qq.com/s?src=11&timestamp=1580045701&ver=2120&signature=KsdV6RuFTSA6n8OlESk8gRJzH33wCP36LpUx7t9xb3VgAvvIkgTMMfLyQMQZwnE9SV2vSrNqEWCU4XY68bYkaQvFJNsGwsg7AuR43u7CQi3g9mGeUGgy5onIfoh-8F1D&new=1)
+
 ## 防控
+#### 一、防护措施
 [防护知识合辑-丁香医生](https://mp.weixin.qq.com/s/UkWbqzKRe2DITz2nS6-XvQ)
 
 > 出门戴口罩（首选医用外科口罩、N95口罩），[勤洗手](https://mp.weixin.qq.com/s?__biz=MjA1ODMxMDQwMQ==&mid=2657273187&idx=5&sn=7abd6d8bff45341c85bd88575e034c9f&chksm=4906c10d7e71481b5c82ff09e384e0e3118e28bc59f036b290a481eb8b4b64f78822ff5fc3d8&scene=21#wechat_redirect)，
@@ -33,21 +69,28 @@
 
 咳嗽打喷嚏的时候应该用肘关节内侧挡着嘴，而不是用手捂嘴。因为如果用手捂嘴的话，如果你体内有病毒，就被你喷手上了。然后你再到处一摸，就变成一个行走的病毒扩散器。
 
-## 辟谣
-[较真查证平台-腾讯新闻](https://vp.fact.qq.com/home)
+#### 二、如何劝说身边人引起对新型肺炎的重视？
+- [如何劝说父母家人对新型冠状病毒引起必要的重视?-知乎](https://www.zhihu.com/question/367258958)
+- [【不看后悔！】做这件事！积德积善！](https://mp.weixin.qq.com/s/e4ruQmt91sQ46BR65OH4og)
+- [专家忠告！一个口罩或可拯救一家人！ 现在知道还不晚！（转给家人）](https://mp.weixin.qq.com/s/h-pAKaH35Hy0bz5wewDOCg)
 
-[面对武汉疫情，我更愿意相信让专业的人去做专业的事-毕导](https://mp.weixin.qq.com/s?src=11&timestamp=1580045701&ver=2120&signature=KsdV6RuFTSA6n8OlESk8gRJzH33wCP36LpUx7t9xb3VgAvvIkgTMMfLyQMQZwnE9SV2vSrNqEWCU4XY68bYkaQvFJNsGwsg7AuR43u7CQi3g9mGeUGgy5onIfoh-8F1D&new=1)
-
-## 疫情动态
-疫情地图、全国发热门诊、疫情最新进展：
-- [丁香园新型肺炎疫情实时动态](https://3g.dxy.cn/newh5/view/pneumonia)
-- [360新型肺炎疫情实时动态](https://arena.360.cn/docs/wuhan_pneumonia/)
-- [网易新型肺炎疫情地图](https://news.163.com/special/epidemic/)
-- [百度疫情通报](https://voice.baidu.com/act/newpneumonia/newpneumonia)
-- [新浪疫情实时动态](https://news.sina.cn/zt_d/yiqing0121)
-- [第一财经疫情地图](https://m.yicai.com/news/100476965.html)
-- [腾讯新闻疫情实时追踪](https://news.qq.com/zt2020/page/feiyan.htm)
-- [疫情信息离线版本](./special/README.md)
+<table>
+    <tr>
+        <td><img src="./images/a1.jpg" alt=""></td>
+        <td></td>
+        <td><img src="./images/a2.jpg" alt=""></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><img src="./images/a5.jpg" alt=""></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><img src="./images/a3.jpg" alt=""></td>
+        <td></td>
+        <td><img src="./images/a4.jpg" alt=""></td>
+    </tr>
+</table>
 
 ## 视频
 - [武汉UP实拍，封城后的24小时](https://www.bilibili.com/video/av84850049)
@@ -56,7 +99,8 @@
 ## 相关新闻话题
 - [新型肺炎防疫全记录-财新网](http://m.app.caixin.com/m_topic_detail/1473.html)
 - [新型冠状病毒-知乎话题](https://www.zhihu.com/topic/21238418/top-answers)
-- [春节档电影集体撤档，《囧妈》在头条系平台免费播放](https://new.qq.com/omn/20200124/20200124A08VF400.html)
+- [春节档电影集体撤档，《囧妈》在头条系平台免费播放](https://www.toutiao.com/a6785780582010847748)
+- [武汉肺炎爆发后，300万中国父母拒绝戴口罩](https://k.sina.cn/article_1887344341_707e96d502000t0zs.html)
 
 ## 相关链接
 - [武汉新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
