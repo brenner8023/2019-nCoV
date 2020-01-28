@@ -3,7 +3,8 @@
 
 - 传染源：野生动物
 - 病毒：新型冠状病毒2019-nCoV
-- 传播途径：存在人传人、医务人员感染、一定范围内传播
+- 传播途径：经呼吸道飞沫传播，亦可通过接触传播，存在医务人员感染
+- 易感人群：人群普遍易感。老年人及有基础疾病者感染后病情较重，儿童及婴幼儿也有发病
 - 潜伏期：1~14天均有，平均10天，潜伏期内存在传染性
 - 感染的临床表现：发热、乏力、呼吸道症状以干咳为主、逐渐出现呼吸困难
 
@@ -35,7 +36,8 @@
 - [第一财经疫情地图](https://m.yicai.com/news/100476965.html)
 - [腾讯新闻疫情实时追踪](https://news.qq.com/zt2020/page/feiyan.htm)
 - [凤凰网疫情实时动态](https://news.ifeng.com/c/special/7tPlDSzDgVk)
-- [疫情信息离线版本](./special/README.md)
+- [梅斯疫情实时动态](https://m.medsci.cn/wh.asp)
+- [疫情信息静态化](./special/README.md)
 
 ## 辟谣
 [较真查证平台-腾讯新闻](https://vp.fact.qq.com/home)
@@ -46,10 +48,9 @@
 #### 一、防护措施
 [防护知识合辑-丁香医生](https://mp.weixin.qq.com/s/UkWbqzKRe2DITz2nS6-XvQ)
 
-> 出门戴口罩（首选医用外科口罩、N95口罩），[勤洗手](https://mp.weixin.qq.com/s?__biz=MjA1ODMxMDQwMQ==&mid=2657273187&idx=5&sn=7abd6d8bff45341c85bd88575e034c9f&chksm=4906c10d7e71481b5c82ff09e384e0e3118e28bc59f036b290a481eb8b4b64f78822ff5fc3d8&scene=21#wechat_redirect)，
-避免近距离接触有流感症状的人，
-避免近距离接触野生动物，
-不随地吐痰，咳嗽或打喷嚏时用纸巾或肘关节掩住口鼻，
+> 出门戴口罩（首选医用外科口罩、N95口罩），[勤洗手](https://mp.weixin.qq.com/s?__biz=MjA1ODMxMDQwMQ==&mid=2657273187&idx=5&sn=7abd6d8bff45341c85bd88575e034c9f&chksm=4906c10d7e71481b5c82ff09e384e0e3118e28bc59f036b290a481eb8b4b64f78822ff5fc3d8&scene=21#wechat_redirect)，<br />
+避免近距离接触有流感症状的人，避免近距离接触野生动物，<br />
+不随地吐痰，咳嗽或打喷嚏时用纸巾或肘关节掩住口鼻，<br />
 待在家里，不去人多的地方，不去聚会。
 
 视频教学：
@@ -93,7 +94,9 @@
 </table>
 
 ## 视频
+- [武汉UP主实拍：医院、医生、武汉人生活的情况](https://www.bilibili.com/video/av85319402)
 - [武汉UP实拍，封城后的24小时](https://www.bilibili.com/video/av84850049)
+- [【半佛】冠状病毒来源已确凿！别再乱吃野生动物了。](https://www.bilibili.com/video/av84792132)
 - [白岩松访钟南山：新型肺炎疫情如何防控](https://v.qq.com/x/cover/mzc00200oqqk983/v00336kuxnm.html)
 
 ## 相关新闻话题
