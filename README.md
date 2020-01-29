@@ -48,12 +48,13 @@
 #### 一、防护措施
 [防护知识合辑-丁香医生](https://mp.weixin.qq.com/s/UkWbqzKRe2DITz2nS6-XvQ)
 
-> 出门戴口罩（首选医用外科口罩、N95口罩），[勤洗手](https://mp.weixin.qq.com/s?__biz=MjA1ODMxMDQwMQ==&mid=2657273187&idx=5&sn=7abd6d8bff45341c85bd88575e034c9f&chksm=4906c10d7e71481b5c82ff09e384e0e3118e28bc59f036b290a481eb8b4b64f78822ff5fc3d8&scene=21#wechat_redirect)，<br />
-避免近距离接触有流感症状的人，避免近距离接触野生动物，<br />
-不随地吐痰，咳嗽或打喷嚏时用纸巾或肘关节掩住口鼻，<br />
-待在家里，不去人多的地方，不去聚会。
+> 1、出门戴口罩（首选医用外科口罩、N95口罩），[勤洗手](https://mp.weixin.qq.com/s?__biz=MjA1ODMxMDQwMQ==&mid=2657273187&idx=5&sn=7abd6d8bff45341c85bd88575e034c9f&chksm=4906c10d7e71481b5c82ff09e384e0e3118e28bc59f036b290a481eb8b4b64f78822ff5fc3d8&scene=21#wechat_redirect)，<br />
+2、避免近距离接触有流感症状的人，避免近距离接触野生动物，<br />
+3、不随地吐痰，咳嗽或打喷嚏时用纸巾或肘关节掩住口鼻，<br />
+4、待在家里，不去人多的地方，不去聚会。
 
 视频教学：
+- [【朱广权】这才是戴口罩洗手的正确姿势 比Rap更好看！](https://www.bilibili.com/video/av85385462)
 - [正确戴外科口罩的十二个步骤](https://www.bilibili.com/video/av84429638)
 - [戴上N95口罩的六个步骤](https://www.bilibili.com/video/av84422414)
 - [医用防护服使用指南](https://www.bilibili.com/video/av84823516)
@@ -94,6 +95,8 @@
 </table>
 
 ## 视频
+- [【新闻1+1】还有多久能研制出疫苗？2020-01-28](https://www.bilibili.com/video/av85487225?p=2)
+- [钟南山：疫情或在7到10天达到高峰](https://www.bilibili.com/video/av85485703)
 - [武汉UP主实拍：医院、医生、武汉人生活的情况](https://www.bilibili.com/video/av85319402)
 - [武汉UP实拍，封城后的24小时](https://www.bilibili.com/video/av84850049)
 - [【半佛】冠状病毒来源已确凿！别再乱吃野生动物了。](https://www.bilibili.com/video/av84792132)
@@ -110,5 +113,6 @@
 - [口罩护目镜头像生成器](https://h5.codefuture.top/2020-mask)
 - [非典-纪录片](https://www.bilibili.com/video/av8132069)
 - [面对面抗击非典-央视新闻](https://v.qq.com/x/page/y0197dxwv57.html)
+- [2003年非典时期敢说真话的钟南山](https://www.bilibili.com/video/av85065534)
 - [《瘟疫公司》游戏](https://www.zhihu.com/topic/19837100/top-answers)
 - [《流感》韩国电影](https://v.youku.com/v_show/id_XNzA0OTIwMzg4.html)
