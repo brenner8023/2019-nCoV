@@ -33,7 +33,7 @@
 
 let fs = require('fs'),
 	listOfData = [],
-	result = '# 疫情信息离线版本\n\n';
+	result = '# 疫情信息离线版本\n\n![](./active.jpg)\n\n';
 
 fs.readFile('./info.json', (err, data) => {
 	if(!err) {

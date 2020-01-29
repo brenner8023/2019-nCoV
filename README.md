@@ -37,6 +37,7 @@
 - [腾讯新闻疫情实时追踪](https://news.qq.com/zt2020/page/feiyan.htm)
 - [凤凰网疫情实时动态](https://news.ifeng.com/c/special/7tPlDSzDgVk)
 - [梅斯疫情实时动态](https://m.medsci.cn/wh.asp)
+- [腾讯微保疫情实时动态](https://api.wesure.cn/app/innovate/pneumonia/index.html)
 - [疫情信息静态化](./special/README.md)
 
 ## 辟谣
@@ -100,6 +101,7 @@
 - [武汉UP主实拍：医院、医生、武汉人生活的情况](https://www.bilibili.com/video/av85319402)
 - [武汉UP实拍，封城后的24小时](https://www.bilibili.com/video/av84850049)
 - [【半佛】冠状病毒来源已确凿！别再乱吃野生动物了。](https://www.bilibili.com/video/av84792132)
+- [“冠状病毒”是什么？武汉新型肺炎病毒是如何使人生病的？](https://www.bilibili.com/video/av85537015)
 - [白岩松访钟南山：新型肺炎疫情如何防控](https://v.qq.com/x/cover/mzc00200oqqk983/v00336kuxnm.html)
 
 ## 相关新闻话题
