@@ -27,6 +27,8 @@
 </table>
 
 ## 疫情动态
+[查询新型肺炎患者同乘工具](https://2019ncov.nosugartech.com/search.html)
+
 疫情地图、全国发热门诊、疫情最新进展：
 - [丁香园新型肺炎疫情实时动态](https://3g.dxy.cn/newh5/view/pneumonia)
 - [360新型肺炎疫情实时动态](https://arena.360.cn/docs/wuhan_pneumonia/)
@@ -42,6 +44,8 @@
 
 ## 辟谣
 [较真查证平台-腾讯新闻](https://vp.fact.qq.com/home)
+
+[【凉风辟谣】开局一张图，内容全靠编！别再信谣传谣啦！](https://www.bilibili.com/video/av85542896)
 
 [面对武汉疫情，我更愿意相信让专业的人去做专业的事-毕导](https://mp.weixin.qq.com/s?src=11&timestamp=1580045701&ver=2120&signature=KsdV6RuFTSA6n8OlESk8gRJzH33wCP36LpUx7t9xb3VgAvvIkgTMMfLyQMQZwnE9SV2vSrNqEWCU4XY68bYkaQvFJNsGwsg7AuR43u7CQi3g9mGeUGgy5onIfoh-8F1D&new=1)
 
@@ -113,6 +117,8 @@
 ## 相关链接
 - [武汉新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
 - [口罩护目镜头像生成器](https://h5.codefuture.top/2020-mask)
+- [我要戴口罩-微信小程序](https://github.com/idealclover/Wear-A-Mask)
+- [2019新型冠状病毒疫情实时爬虫](https://github.com/BlankerL/DXY-2019-nCoV-Crawler)
 - [非典-纪录片](https://www.bilibili.com/video/av8132069)
 - [面对面抗击非典-央视新闻](https://v.qq.com/x/page/y0197dxwv57.html)
 - [2003年非典时期敢说真话的钟南山](https://www.bilibili.com/video/av85065534)
