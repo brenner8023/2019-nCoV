@@ -104,18 +104,21 @@
 - [钟南山：疫情或在7到10天达到高峰](https://www.bilibili.com/video/av85485703)
 - [武汉UP主实拍：医院、医生、武汉人生活的情况](https://www.bilibili.com/video/av85319402)
 - [武汉UP实拍，封城后的24小时](https://www.bilibili.com/video/av84850049)
+- [白岩松访钟南山：新型肺炎疫情如何防控](https://v.qq.com/x/cover/mzc00200oqqk983/v00336kuxnm.html)
 - [【半佛】冠状病毒来源已确凿！别再乱吃野生动物了。](https://www.bilibili.com/video/av84792132)
 - [“冠状病毒”是什么？武汉新型肺炎病毒是如何使人生病的？](https://www.bilibili.com/video/av85537015)
-- [白岩松访钟南山：新型肺炎疫情如何防控](https://v.qq.com/x/cover/mzc00200oqqk983/v00336kuxnm.html)
+- [【鬼谷闲谈】病毒：生于三界之外 不灭六道之中](https://www.bilibili.com/video/av85751585)
 
 ## 相关新闻话题
 - [新型肺炎防疫全记录-财新网](http://m.app.caixin.com/m_topic_detail/1473.html)
 - [新型冠状病毒-知乎话题](https://www.zhihu.com/topic/21238418/top-answers)
+- [武汉大瘟疫，国字头专家们贡献了什么？](https://mp.weixin.qq.com/s?src=11&timestamp=1580437403&ver=2129&signature=KUF-QAegVDNWbFb8jtbqqeaL2FXJ6m0ribeNrcLCAULKw0FR7RhkV7SaTB42Aaap6yY7grZkbcBZmpWXVCcBwxsZa3dGbFGQFXfK7peqqm2rg4OvUSDFE6i7Au9KbyBE&new=1)
 - [春节档电影集体撤档，《囧妈》在头条系平台免费播放](https://www.toutiao.com/a6785780582010847748)
 - [武汉肺炎爆发后，300万中国父母拒绝戴口罩](https://k.sina.cn/article_1887344341_707e96d502000t0zs.html)
 
 ## 相关链接
 - [武汉新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
+- [【不沙雕动画】小蓝是一位医生——《逆行》](https://www.bilibili.com/video/av85339389)
 - [口罩护目镜头像生成器](https://h5.codefuture.top/2020-mask)
 - [我要戴口罩-微信小程序](https://github.com/idealclover/Wear-A-Mask)
 - [2019新型冠状病毒疫情实时爬虫](https://github.com/BlankerL/DXY-2019-nCoV-Crawler)
