@@ -1,4 +1,5 @@
-# 给还没明白怎么回事的朋友捋一下武汉红十为啥被大家盯上了。
+# 武汉红十事件
+## 给还没明白怎么回事的朋友捋一下武汉红十为啥被大家盯上了。
 水木丁
 
 [原微博链接](https://m.weibo.cn/status/4467091732386017)
@@ -40,3 +41,7 @@
 14 武汉协和是武汉第一批全天24小时的发热门诊定点医院，从始至终战斗在一线。而且还有许多各地驰援医生在协和。
 
 15，以上都是网友费心整理，有截图，有视频的，大部分我前面微博有转，没有的就不说了，我只是把时间线串了一下。
+
+[给你看看红会的魔幻现实主义，CTMD。](https://mp.weixin.qq.com/s?src=11&timestamp=1580554553&ver=2132&signature=-StRkpDxfzNmMr9SVWrVskzoLscXfvrnskXwg1dRZl4ahxjQu5jjJhUX7H*Rsof*nElEbEjBaTT8h4ATFwSnDISoZiA-91LJx8RfUMf4FzJphXAPjvOsUnLdwfqsHbgH&new=1)
+
+![给你看看红会的魔幻现实主义，CTMD。](./images/red_cross.jpg)

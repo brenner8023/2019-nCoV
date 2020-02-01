@@ -112,7 +112,7 @@
 ## 相关新闻话题
 - [新型肺炎防疫全记录-财新网](http://m.app.caixin.com/m_topic_detail/1473.html)
 - [新型冠状病毒-知乎话题](https://www.zhihu.com/topic/21238418/top-answers)
-- [网友整理的武汉红十事件时间线](./red_cross.md)
+- [武汉红十事件](./red_cross.md)
 - [我真怕明天专家说吃屎能治冠状病毒](https://mp.weixin.qq.com/s?src=11&timestamp=1580544045&ver=2131&signature=HVFIlTboNaYtcgjlsJNFfpfmEBziJGjuxdcVaQJW9anVXdu9BoX3ihnQVzxVXffObdimFsgTVE8cauLkZrY4uBhwPbnyzYXSd0q*Ie3ANEtSh0e3H38u1Z3Nrn4zx6YD&new=1)
 - [武汉大瘟疫，国字头专家们贡献了什么？](https://mp.weixin.qq.com/s?src=11&timestamp=1580437403&ver=2129&signature=KUF-QAegVDNWbFb8jtbqqeaL2FXJ6m0ribeNrcLCAULKw0FR7RhkV7SaTB42Aaap6yY7grZkbcBZmpWXVCcBwxsZa3dGbFGQFXfK7peqqm2rg4OvUSDFE6i7Au9KbyBE&new=1)
 - [春节档电影集体撤档，《囧妈》在头条系平台免费播放](https://www.toutiao.com/a6785780582010847748)
