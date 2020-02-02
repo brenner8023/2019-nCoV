@@ -105,7 +105,7 @@
 - [武汉UP主实拍：医院、医生、武汉人生活的情况](https://www.bilibili.com/video/av85319402)
 - [武汉UP实拍，封城后的24小时](https://www.bilibili.com/video/av84850049)
 - [白岩松访钟南山：新型肺炎疫情如何防控](https://v.qq.com/x/cover/mzc00200oqqk983/v00336kuxnm.html)
-- [【半佛】冠状病毒来源已确凿！别再乱吃野生动物了。](https://www.bilibili.com/video/av84792132)
+- [【回形针PaperClip】关于新冠肺炎的一切](https://www.bilibili.com/video/av86216616)
 - [“冠状病毒”是什么？武汉新型肺炎病毒是如何使人生病的？](https://www.bilibili.com/video/av85537015)
 - [【鬼谷闲谈】病毒：生于三界之外 不灭六道之中](https://www.bilibili.com/video/av85751585)
 
@@ -113,7 +113,7 @@
 - [新型肺炎防疫全记录-财新网](http://m.app.caixin.com/m_topic_detail/1473.html)
 - [新型冠状病毒-知乎话题](https://www.zhihu.com/topic/21238418/top-answers)
 - [武汉红十事件](./red_cross.md)
-- [我真怕明天专家说吃屎能治冠状病毒](https://mp.weixin.qq.com/s?src=11&timestamp=1580544045&ver=2131&signature=HVFIlTboNaYtcgjlsJNFfpfmEBziJGjuxdcVaQJW9anVXdu9BoX3ihnQVzxVXffObdimFsgTVE8cauLkZrY4uBhwPbnyzYXSd0q*Ie3ANEtSh0e3H38u1Z3Nrn4zx6YD&new=1)
+- [双黄连能否抑制肺炎先不提，显然能抑制智商](https://www.huxiu.com/article/337582.html)
 - [武汉大瘟疫，国字头专家们贡献了什么？](https://mp.weixin.qq.com/s?src=11&timestamp=1580437403&ver=2129&signature=KUF-QAegVDNWbFb8jtbqqeaL2FXJ6m0ribeNrcLCAULKw0FR7RhkV7SaTB42Aaap6yY7grZkbcBZmpWXVCcBwxsZa3dGbFGQFXfK7peqqm2rg4OvUSDFE6i7Au9KbyBE&new=1)
 - [春节档电影集体撤档，《囧妈》在头条系平台免费播放](https://www.toutiao.com/a6785780582010847748)
 - [武汉肺炎爆发后，300万中国父母拒绝戴口罩](https://k.sina.cn/article_1887344341_707e96d502000t0zs.html)
