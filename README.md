@@ -1,12 +1,13 @@
 # 新型肺炎防疫
 > 及时通报，有效防控，坚决打赢这场没有硝烟的战争。
 
-- 传染源：野生动物
 - 病毒：新型冠状病毒2019-nCoV
-- 传播途径：经呼吸道飞沫传播，亦可通过接触传播，存在医务人员感染
+- 传染源：新型冠状病毒感染的肺炎患者
+- 传播途径：经呼吸道飞沫传播，亦可通过接触传播，存在粪-口传播可能性
 - 易感人群：人群普遍易感。老年人及有基础疾病者感染后病情较重，儿童及婴幼儿也有发病
 - 潜伏期：1~14天均有，平均10天，潜伏期内存在传染性
-- 感染的临床表现：发热、乏力、呼吸道症状以干咳为主、逐渐出现呼吸困难
+- 临床表现：以发热、乏力、干咳为主要表现。重型病例多在一周后出现呼吸困难。重型、危重型患者病程中可为中低热，甚至无明显发热
+- 宿主：野生动物，可能为中华菊头蝠
 
 <table>
 <tr>
@@ -40,12 +41,16 @@
 - [凤凰网疫情实时动态](https://news.ifeng.com/c/special/7tPlDSzDgVk)
 - [梅斯疫情实时动态](https://m.medsci.cn/wh.asp)
 - [腾讯微保疫情实时动态](https://api.wesure.cn/app/innovate/pneumonia/index.html)
+- [阿里健康疫情实时动态](https://www.mdeer.com/influenzamap)
+- [夸克浏览器疫情实时动态](https://broccoli.uc.cn/apps/pneumonia/routes/index)
 - [疫情信息静态化](./special/README.md)
 
 ## 辟谣
 [较真查证平台-腾讯新闻](https://vp.fact.qq.com/home)
 
 [【凉风辟谣】开局一张图，内容全靠编！别再信谣传谣啦！](https://www.bilibili.com/video/av85542896)
+
+[关于新冠肺炎的100条科学信息-人民网](https://zhuanlan.zhihu.com/p/104315451)
 
 [面对武汉疫情，我更愿意相信让专业的人去做专业的事-毕导](https://mp.weixin.qq.com/s?src=11&timestamp=1580045701&ver=2120&signature=KsdV6RuFTSA6n8OlESk8gRJzH33wCP36LpUx7t9xb3VgAvvIkgTMMfLyQMQZwnE9SV2vSrNqEWCU4XY68bYkaQvFJNsGwsg7AuR43u7CQi3g9mGeUGgy5onIfoh-8F1D&new=1)
 
@@ -99,17 +104,24 @@
     </tr>
 </table>
 
-## 视频
-- [【新闻1+1】还有多久能研制出疫苗？2020-01-28](https://www.bilibili.com/video/av85487225?p=2)
-- [钟南山：疫情或在7到10天达到高峰](https://www.bilibili.com/video/av85485703)
+## 个体叙述
+- [豆友的第一手叙述](https://www.douban.com/doulist/122759092/)
+- [豆瓣豆列：瘟疫时期](https://www.douban.com/doulist/122857988/)
 - [武汉UP主实拍：医院、医生、武汉人生活的情况](https://www.bilibili.com/video/av85319402)
 - [武汉UP实拍，封城后的24小时](https://www.bilibili.com/video/av84850049)
+
+## 视频
+- [武汉城市宣传片：爱和希望比病毒蔓延的更快](https://weibo.com/tv/v/IsuW8hEro)
+- [【新闻1+1】还有多久能研制出疫苗？2020-01-28](https://www.bilibili.com/video/av85487225?p=2)
+- [钟南山：疫情或在7到10天达到高峰](https://www.bilibili.com/video/av85485703)
 - [白岩松访钟南山：新型肺炎疫情如何防控](https://v.qq.com/x/cover/mzc00200oqqk983/v00336kuxnm.html)
 - [【回形针PaperClip】关于新冠肺炎的一切](https://www.bilibili.com/video/av86216616)
 - [“冠状病毒”是什么？武汉新型肺炎病毒是如何使人生病的？](https://www.bilibili.com/video/av85537015)
 - [【鬼谷闲谈】病毒：生于三界之外 不灭六道之中](https://www.bilibili.com/video/av85751585)
+- [计算机仿真程序告诉你为什么现在还没到出门的时候！！！2020-02-03](https://www.bilibili.com/video/av86478875)
 
 ## 相关新闻话题
+- [副本 新冠肺炎：內地傳媒深度報道選編](https://shimo.im/docs/vj38GdGpqDJtGkKJ/read)
 - [新型肺炎防疫全记录-财新网](http://m.app.caixin.com/m_topic_detail/1473.html)
 - [新型冠状病毒-知乎话题](https://www.zhihu.com/topic/21238418/top-answers)
 - [武汉红十事件](./red_cross.md)
@@ -118,14 +130,21 @@
 - [春节档电影集体撤档，《囧妈》在头条系平台免费播放](https://www.toutiao.com/a6785780582010847748)
 - [武汉肺炎爆发后，300万中国父母拒绝戴口罩](https://k.sina.cn/article_1887344341_707e96d502000t0zs.html)
 
-## 相关链接
+## GitHub相关项目
+- [记录自2019年12月起武汉新冠肺炎疫情进展的时间线](https://github.com/Pratitya/wuhan2020-timeline)
 - [武汉新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
+- [为抗击新肺炎贡献一份技术力量-App研发](https://github.com/fluttercandies/ncov_2019)
+- [2019新型冠状病毒疫情实时爬虫](https://github.com/BlankerL/DXY-2019-nCoV-Crawler)
+- [2019新型冠状病毒疫情时间序列数据仓库](https://github.com/BlankerL/DXY-2019-nCoV-Data)
+
+## 相关链接
 - [【不沙雕动画】小蓝是一位医生——《逆行》](https://www.bilibili.com/video/av85339389)
 - [口罩护目镜头像生成器](https://h5.codefuture.top/2020-mask)
 - [我要戴口罩-微信小程序](https://github.com/idealclover/Wear-A-Mask)
-- [2019新型冠状病毒疫情实时爬虫](https://github.com/BlankerL/DXY-2019-nCoV-Crawler)
 - [非典-纪录片](https://www.bilibili.com/video/av8132069)
 - [面对面抗击非典-央视新闻](https://v.qq.com/x/page/y0197dxwv57.html)
 - [2003年非典时期敢说真话的钟南山](https://www.bilibili.com/video/av85065534)
 - [《瘟疫公司》游戏](https://www.zhihu.com/topic/19837100/top-answers)
 - [《流感》韩国电影](https://v.youku.com/v_show/id_XNzA0OTIwMzg4.html)
+- [Internet-Archive-of-2019-nCoV](https://www.notion.so/Internet-Archive-of-2019-nCoV-49f563331d4145c1865f6cc8f0c05132)
+- [北邮人整合的疫情相关网站](http://jiayou.beiyouren.cn/jiayou/)
