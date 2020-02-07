@@ -52,13 +52,13 @@
 
 [关于新冠肺炎的100条科学信息-人民网](https://zhuanlan.zhihu.com/p/104315451)
 
-[面对武汉疫情，我更愿意相信让专业的人去做专业的事-毕导](https://mp.weixin.qq.com/s?src=11&timestamp=1580045701&ver=2120&signature=KsdV6RuFTSA6n8OlESk8gRJzH33wCP36LpUx7t9xb3VgAvvIkgTMMfLyQMQZwnE9SV2vSrNqEWCU4XY68bYkaQvFJNsGwsg7AuR43u7CQi3g9mGeUGgy5onIfoh-8F1D&new=1)
+[面对武汉疫情，我更愿意相信让专业的人去做专业的事-毕导](https://mp.weixin.qq.com/s/A-nFnn3dASmQwHFVIl7GUg)
 
 ## 防控
 #### 一、防护措施
 [防护知识合辑-丁香医生](https://mp.weixin.qq.com/s/UkWbqzKRe2DITz2nS6-XvQ)
 
-> 1、出门戴口罩（首选医用外科口罩、N95口罩），[勤洗手](https://mp.weixin.qq.com/s?__biz=MjA1ODMxMDQwMQ==&mid=2657273187&idx=5&sn=7abd6d8bff45341c85bd88575e034c9f&chksm=4906c10d7e71481b5c82ff09e384e0e3118e28bc59f036b290a481eb8b4b64f78822ff5fc3d8&scene=21#wechat_redirect)，<br />
+> 1、出门戴口罩（首选医用外科口罩、N95口罩），[勤洗手](https://mp.weixin.qq.com/s/akkQR1ACJt2QeC6bGRUMKg)，<br />
 2、避免近距离接触有流感症状的人，避免近距离接触野生动物，<br />
 3、不随地吐痰，咳嗽或打喷嚏时用纸巾或肘关节掩住口鼻，<br />
 4、待在家里，不去人多的地方，不去聚会。
@@ -71,7 +71,7 @@
 
 **谈谈口罩和防疫：**
 - [原文链接1](https://mp.weixin.qq.com/s/1QmU8v9C23DXQ9Y4TQohZA)
-- [原文链接2](https://mp.weixin.qq.com/s?src=11&timestamp=1580037005&ver=2120&signature=adSY285WoZhc1kqFx-T92zJUqBEuF3M7b03uxAWxnr6ConC4kq9fLAV0eaRfWFawE-R-OszwD4ULq8jiVWvWWf4BIaFIs*-nBE*4KYmp7K1shYK*1j-lGs*PdogDBQZ-&new=1)
+- [原文链接2](https://mp.weixin.qq.com/s/JZbhnq2JENl6b9hFQIUwJg)
 
 口罩主要是防止吸进去别人的唾沫星子、鼻涕星子什么的。唾沫星子有大有小。小唾沫星子的很轻，可以在空气中悬浮很长时间。你呼吸的时候就可能吸进去。然后唾沫星子里的病毒就把你给感染了。
 
@@ -124,9 +124,10 @@
 - [副本 新冠肺炎：內地傳媒深度報道選編](https://shimo.im/docs/vj38GdGpqDJtGkKJ/read)
 - [新型肺炎防疫全记录-财新网](http://m.app.caixin.com/m_topic_detail/1473.html)
 - [新型冠状病毒-知乎话题](https://www.zhihu.com/topic/21238418/top-answers)
+- [对专业人士应谨慎动用警权](http://opinion.caixin.com/2020-02-07/101512496.html)
 - [武汉红十事件](./red_cross.md)
 - [双黄连能否抑制肺炎先不提，显然能抑制智商](https://www.huxiu.com/article/337582.html)
-- [武汉大瘟疫，国字头专家们贡献了什么？](https://mp.weixin.qq.com/s?src=11&timestamp=1580437403&ver=2129&signature=KUF-QAegVDNWbFb8jtbqqeaL2FXJ6m0ribeNrcLCAULKw0FR7RhkV7SaTB42Aaap6yY7grZkbcBZmpWXVCcBwxsZa3dGbFGQFXfK7peqqm2rg4OvUSDFE6i7Au9KbyBE&new=1)
+- [武汉大瘟疫，国字头专家们贡献了什么？](https://think.sina.cn/doc-iimxyqvy9323489.d.html)
 - [春节档电影集体撤档，《囧妈》在头条系平台免费播放](https://www.toutiao.com/a6785780582010847748)
 - [武汉肺炎爆发后，300万中国父母拒绝戴口罩](https://k.sina.cn/article_1887344341_707e96d502000t0zs.html)
 

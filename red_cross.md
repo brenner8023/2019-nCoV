@@ -44,6 +44,4 @@
 
 ## 给你看看红会的魔幻现实主义
 
-[给你看看红会的魔幻现实主义，CTMD。](https://mp.weixin.qq.com/s?src=11&timestamp=1580554553&ver=2132&signature=-StRkpDxfzNmMr9SVWrVskzoLscXfvrnskXwg1dRZl4ahxjQu5jjJhUX7H*Rsof*nElEbEjBaTT8h4ATFwSnDISoZiA-91LJx8RfUMf4FzJphXAPjvOsUnLdwfqsHbgH&new=1)
-
 ![给你看看红会的魔幻现实主义，CTMD。](./images/red_cross.jpg)
